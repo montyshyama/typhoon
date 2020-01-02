@@ -1,2 +1,3 @@
 # Typhoon 1.02
-Screenshots for step-by-step walk-through of Typhoon 1.02: A Vulnhub VM
+# Step-by-step walk-through of Typhoon 1.02: A Vulnhub VM
+1. 
